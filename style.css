@@ -1,0 +1,28 @@
+a{
+    color:black !important;
+}
+ a:hover{
+  text-decoration: underline !important;
+}
+#foot{
+    width:100%;
+    background-color:dimgray;
+    color: white;
+    display: flex;
+    margin-top: 40px;
+}
+.footer{
+    margin-top: 100px;
+    margin-left: 60px;
+    margin-right: 20px ;
+    color:white;
+}
+.link{
+    text-decoration:none;
+    color:white !important;
+}
+#pershkrimi-udhetimit{
+    text-align:left;
+    margin-left: 100px ;
+    margin-right:40px;
+   }
